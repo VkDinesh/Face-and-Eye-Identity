@@ -18,4 +18,4 @@ we use Face and Eye cascade Classifiers to get the coordinates of top and bottom
 
 # Jupyter Notebook
 
-Link to [jupyter notebook](https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-f37sop2p/notebooks/binder/Untitled.ipynb?kernel_name=python3)
+Link to [jupyter notebook](https://github.com/VkDinesh/Face-and-Eye-Identity/blob/master/Face%20and%20eye%20Identity.py)
