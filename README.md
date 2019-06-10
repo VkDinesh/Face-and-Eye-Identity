@@ -13,6 +13,6 @@ NumPy:  “Complementary” – an all-time classic library!
 # What are the variables used in this code?
 we use Face and Eye cascade Classifiers to get the coordinates of top and bottom corners of both the face and eyes respectively. Those coordinates/points are stored in variables:
 
-# ‘x‘, ‘y‘, ‘w‘, ‘h‘ (for face cascade)
-# ‘ew‘, ‘ey‘, ‘ex‘, ‘eh‘ (for eye cascade)
+‘x‘, ‘y‘, ‘w‘, ‘h‘ (for face cascade)
+‘ew‘, ‘ey‘, ‘ex‘, ‘eh‘ (for eye cascade)
 
