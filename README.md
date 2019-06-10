@@ -1,4 +1,4 @@
-# Automated-attendance-system-using-computer-vision
+# Face and Eye Identity
 
 # What dataset are we using?
 We are using [Robert Downey](https://www.cinemablend.com/news/2471343/apparently-robert-downey-jr-didnt-want-to-do-tony-starks-last-big-line-in-avengers-endgame) image from the cinema blend, we will be using this image for our future face and eye identity.
