@@ -1,7 +1,7 @@
 # Automated-attendance-system-using-computer-vision
 
 # What dataset are we using?
-'sourceimg.jpeg' is the [Robert Downey](https://www.cinemablend.com/news/2471343/apparently-robert-downey-jr-didnt-want-to-do-tony-starks-last-big-line-in-avengers-endgame) image from the cinema blend, we will be using this image for our future face and eye identity.
+We are using [Robert Downey](https://www.cinemablend.com/news/2471343/apparently-robert-downey-jr-didnt-want-to-do-tony-starks-last-big-line-in-avengers-endgame) image from the cinema blend, we will be using this image for our future face and eye identity.
 
 # What are the libraries we are using?
 We’ll be using the below libraries in this section:
@@ -18,4 +18,4 @@ we use Face and Eye cascade Classifiers to get the coordinates of top and bottom
 
 # Jupyter Notebook
 
-Link to [jupyter notebook](https://github.com/VkDinesh/Ted-Talk-Data-Analysis/blob/master/ted%20analysis.ipynb)
+Link to [jupyter notebook](https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-f37sop2p/notebooks/binder/Untitled.ipynb?kernel_name=python3)
