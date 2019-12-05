@@ -6,7 +6,7 @@ We are using [Robert Downey](https://www.cinemablend.com/news/2471343/apparently
 # What are the libraries we are using?
 We’ll be using the below libraries in this section:
 
-OpenCV: For detecting faces and eyes by the inbuilt eye and face cascade classifiers.
+OpenCV: For detecting faces and eyes.
 Matplotlib: For reading and plotting both the images.
 NumPy:  “Complementary” – an all-time classic library!
 
